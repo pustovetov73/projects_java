@@ -1,0 +1,19 @@
+{
+  "name": "projects_java",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pustovetov73/projects_java.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pustovetov73/projects_java/issues"
+  },
+  "homepage": "https://github.com/pustovetov73/projects_java#readme"
+}
